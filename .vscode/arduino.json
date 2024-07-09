@@ -1,0 +1,8 @@
+{
+    "board": "esp32:esp32:esp32c6",
+    "programmer": "esptool",
+    "sketch": "esp-scan-client/esp-scan-client.ino",
+    "port": "/dev/tty.usbserial-10",
+    "output": "./build",
+    "configuration": "JTAGAdapter=default,CDCOnBoot=default,PartitionScheme=default,CPUFreq=160,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none,EraseFlash=none,ZigbeeMode=default"
+}

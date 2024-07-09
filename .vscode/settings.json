@@ -1,0 +1,10 @@
+{
+  "arduino.useArduinoCli": true,
+  "arduino.path": "/Users/fgutmann/Library/Arduino15",
+  "files.associations": {
+    "__split_buffer": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp"
+  }
+}
